@@ -1,0 +1,19 @@
+header {
+	background-size: contain;
+}
+
+header .intro-text .intro-heading {
+  font-size: 25px;
+}
+
+@media(min-width:768px) {
+  header .intro-text .intro-heading {
+    font-size: 37.5px;
+  }
+}
+
+.navbar-default .navbar-brand {
+  background: url('{{ site.baseurl }}/img/logo.png') no-repeat;
+  background-size: contain;
+  text-indent: -9999px;
+}

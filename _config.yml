@@ -2,63 +2,125 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Tamasha Entertainment
+email: deepankar@tamashaentertainment.com
+description: "A channel to performing arts excellence."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Rajul Khare
   pic: 1
-  position: Lead Designer
+  position: Founder
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/tamasha2k17
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
 
-- name: Larry Parker
+- name: Deepankar Mukherjee
   pic: 2
-  position: Lead Marketer
+  position: Co-Founder
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/tamasha2k17
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
 
-- name: Diana Petersen
+- name: Satish tripathi
   pic: 3
-  position: Lead Developer
+  position: Co-Founder
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/tamasha2k17
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
+
+- name: Abhishek Naithani
+  pic: 4
+  position: Production
+  social:
+    - title: twitter
+      url: http://twitter.com/tamasha2k17
+    - title: facebook
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
+
+- name: Vivek Ram Kanojia NSD
+  pic: 5
+  position: Creative Director Theatre
+  social:
+    - title: twitter
+      url: http://twitter.com/tamasha2k17
+    - title: facebook
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
+
+- name: Anugat Raj
+  pic: 6
+  position: Creative Director Films
+  social:
+    - title: twitter
+      url: http://twitter.com/tamasha2k17
+    - title: facebook
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
+
+- name: Prankur Arora
+  pic: 7
+  position: Creative Writer
+  social:
+    - title: twitter
+      url: http://twitter.com/tamasha2k17
+    - title: facebook
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
+
+- name: Ashu Puri Talwar
+  pic: 8
+  position: Actor
+  social:
+    - title: twitter
+      url: http://twitter.com/tamasha2k17
+    - title: facebook
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
+
+- name: Bhupender Singh
+  pic: 9
+  position: Actor
+  social:
+    - title: twitter
+      url: http://twitter.com/tamasha2k17
+    - title: facebook
+      url: http://fb.com/tamashaentertainment1
+    - title: instagram
+      url: http://instagram.com/tamasha_entertainment
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/tamasha2k17
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://fb.com/tamashaentertainment1
+  - title: instagram
+    url: http://instagram.com/tamasha_entertainment
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1002, Hamilton Ct Rd, DLF City IV
+  - line: Sector 28, Gurugram, Haryana 122009
 
 # Build settings
 markdown: kramdown
