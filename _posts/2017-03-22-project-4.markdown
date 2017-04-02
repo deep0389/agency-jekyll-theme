@@ -1,6 +1,6 @@
 ---
-title: .
-subtitle: 
+title: Corporate Show
+subtitle: Radisson Hotel Dwarka
 layout: default
 modal-id: 4
 date: 2017-03-22

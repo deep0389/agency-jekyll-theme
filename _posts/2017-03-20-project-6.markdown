@@ -1,6 +1,6 @@
 ---
-title: .
-subtitle: 
+title: Alliance
+subtitle: Director's View
 layout: default
 modal-id: 6
 date: 2017-03-20
