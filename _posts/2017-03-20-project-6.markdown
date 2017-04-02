@@ -1,0 +1,11 @@
+---
+title: .
+subtitle: 
+layout: default
+modal-id: 6
+date: 2017-03-20
+img: 6.jpg
+thumbnail: 6.jpg
+alt: image-alt
+
+---

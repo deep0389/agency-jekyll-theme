@@ -1,0 +1,12 @@
+---
+title: Workshop
+subtitle: Vivek Ram Kanojia (NSD 2014)
+layout: default
+modal-id: 3
+date: 2017-03-23
+img: 3.jpg
+thumbnail: 3.jpg
+alt: image-alt
+project-date: April 2014
+
+---

@@ -1,0 +1,11 @@
+---
+title: Creative Team
+subtitle: Soul searchers
+layout: default
+modal-id: 2
+date: 2017-03-24
+img: 2.jpg
+thumbnail: 2.jpg
+alt: image-alt
+
+---
